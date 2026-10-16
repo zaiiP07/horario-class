@@ -1,0 +1,14 @@
+table{
+    border-color: green;
+    border-radius: 4px;
+    
+    color:black;
+
+    text-align: center;
+}
+
+th{
+
+    background: rgb(186, 219, 119);
+
+}
